@@ -20,7 +20,9 @@ body {
 
 header {
   background-color: var(--main-purple);
-  max-height: 25vh;
+  left: 20vw;
+  right: 20vw;
+  max-height: 20vh;
   display: flex;
   justify-content: center;
 }
