@@ -6,7 +6,9 @@
 </head>
 
 <body>
-  <h1>Dark Horse Scheduling</h1>
+  <header>
+    <h1>Dark Horse Scheduling</h1>
+  </header>
 
 
 
