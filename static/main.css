@@ -21,7 +21,10 @@ body {
 header {
   background-color: var(--main-purple);
   max-height: 25vh;
+  display: flex;
+  justify-content: center;
 }
+
 
 
 
