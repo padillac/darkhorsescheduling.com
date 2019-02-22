@@ -7,8 +7,8 @@
   <meta description="Hosted schedule management solution for equine facilities">
 </head>
 
-<body>
-  <header>
+<body class="parallax">
+  <header class="parallax__layer parallax__layer--back">
     <h1>Dark Horse Scheduling</h1>
   </header>
 
