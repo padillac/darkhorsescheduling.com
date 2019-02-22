@@ -1,12 +1,17 @@
 :root {
   --background-dark-purple: #28004d;
   --main-purple: #7300e6;
+
+  scroll-behavior: smooth;
+
+
   font-family: 'Open Sans', sans-serif;
 }
 
 /* Header fonts */
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Rubik', sans-serif;
+  font-size: 20pt;
 }
 
 body {
