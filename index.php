@@ -8,9 +8,12 @@
 </head>
 
 <body class="parallax">
-  <header class="parallax__layer parallax__layer--back">
-    <h1>Dark Horse Scheduling</h1>
-  </header>
+
+  <div class="parallax__layer parallax__layer--back">
+    <header>
+      <h1>Dark Horse Scheduling</h1>
+    </header>
+  </div>
 
 
 
