@@ -20,8 +20,7 @@ body {
 
 header {
   background-color: var(--main-purple);
-  left: 20vw;
-  right: 20vw;
+  max-width: 75vw;
   max-height: 20vh;
   display: flex;
   justify-content: center;
