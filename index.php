@@ -15,6 +15,10 @@
     </header>
   </div>
 
+  <div class="parallax__layer parallax__layer--base">
+    <h3>Dark Horse Scheduling</h3>
+  </div>
+
 
 
 </body>
