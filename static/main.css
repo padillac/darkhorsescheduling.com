@@ -1,52 +1,30 @@
 :root {
-  --background-dark-purple: #28004d;
-  --main-purple: #7300e6;
+  	--background-dark-purple: #28004d;
+  	--main-purple: #7300e6;
 
-  scroll-behavior: smooth;
+  	scroll-behavior: smooth;
 
 
-  font-family: 'Open Sans', sans-serif;
-  font-size: 22pt;
+  	font-family: 'Open Sans', sans-serif;
+  	font-size: 22pt;	
 }
+
 
 /* Header fonts */
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Rubik', sans-serif;
+  	font-family: 'Rubik', sans-serif;
 }
 
 body {
-  background-color: var(--background-dark-purple);
+  	background-color: var(--background-dark-purple);
+	margin: 0;
 }
 
 header {
-  background-color: var(--main-purple);
-  max-width: 75vw;
-  max-height: 20vh;
-  display: flex;
-  justify-content: center;
-}
-
-
-
-
-/* PARALLAX */
-
-.parallax {
-  perspective: 1px;
-  height: 100vh;
-  overflow-x: hidden;
-  overflow-y: auto;
-}
-.parallax__layer {
-  position: absolute;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-}
-.parallax__layer--base {
-  transform: translateZ(0);
-}
-.parallax__layer--back {
-  transform: translateZ(-1px) scale(2);
+	color: white;
+	font-size: 35pt;
+  	background-color: var(--main-purple);
+  	max-height: 35vh;
+  	display: flex;
+  	justify-content: center;
 }
