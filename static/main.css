@@ -6,7 +6,7 @@
 
 
   	font-family: 'Open Sans', sans-serif;
-  	font-size: 22pt;	
+  	font-size: 22pt;
 }
 
 
@@ -22,9 +22,9 @@ body {
 
 header {
 	color: white;
-	font-size: 35pt;
+	font-size: 40pt;
   	background-color: var(--main-purple);
-  	max-height: 35vh;
+  	max-height: 40vh;
   	display: flex;
   	justify-content: center;
 }
