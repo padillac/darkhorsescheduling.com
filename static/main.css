@@ -22,7 +22,7 @@ body {
 
 header {
 	  color: white;
-	  font-size: 75pt;
+	  font-size: 65pt;
   	background-color: var(--main-purple);
   	display: flex;
   	justify-content: center;
