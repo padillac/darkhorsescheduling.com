@@ -11,10 +11,13 @@
 
 	<header>Dark Horse Scheduling</header>
 
-  <div class="main-content">
+  <div class="intro-paragraph">
     <p>blablablablablablablablablablabblablablablablbalablablablabl</p>
   </div>
 
+  <div id="home-page-nav">
+    <button type="button" onclick="window.location.href = 'contact/';"></button>
+  </div>
 
 
 </body>
