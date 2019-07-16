@@ -39,7 +39,7 @@ header {
 #home-page-nav {
   display: flex;
   flex-flow: row nowrap;
-  justify-content:  space-around;
+  justify-content:  space-evenly;
 }
 
 #home-page-nav > button {
