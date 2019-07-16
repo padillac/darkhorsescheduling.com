@@ -52,6 +52,7 @@ header {
   color: white;
   text-align: right;
   background-size: cover;
+  background-position: center;
 }
 
 #home-page-nav > button:hover {
