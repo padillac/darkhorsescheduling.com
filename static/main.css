@@ -39,10 +39,11 @@ header {
 #home-page-nav {
   display: flex;
   flex-flow: row nowrap;
+  justify-content:  space-around;
 }
 
 #home-page-nav > button {
   width: 20vw;
   height: 30vh;
-  
+
 }
