@@ -50,6 +50,7 @@ header {
   font-size: 24pt;
   color: white;
   text-align: right;
+  background-size: cover;
 }
 
 #home-page-nav > button:hover {
@@ -58,7 +59,6 @@ header {
 
 #-button {
   background: url(/images/temp.png);
-  background-size: cover;
 }
 #demo-button {
   background: url(/images/temp.png);
