@@ -17,7 +17,7 @@
 
   <div id="home-page-nav">
     <button type="button" onclick="window.location.href = 'contact/';"></button>
-    <button type="button" onclick="window.location.href = 'contact/';"></button>
+    <button type="button" onclick="window.location.href = 'https://demo.darkhorsescheduling.com/';"></button>
     <button type="button" onclick="window.location.href = 'contact/';"></button>
   </div>
 
