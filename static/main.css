@@ -49,6 +49,7 @@ header {
   border: none;
   font-size: 24pt;
   color: white;
+  text-align: center;
 }
 
 #home-page-nav > button:hover {
