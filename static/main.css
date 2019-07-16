@@ -57,11 +57,11 @@ header {
 }
 
 #-button {
-  background: url(/images/temp.png) no-repeat;
+  background: url(/images/temp.png);
 }
 #demo-button {
-  background: url(/images/temp.png) no-repeat;
+  background: url(/images/temp.png);
 }
 #contact-button {
-  background: url(/images/temp.png) no-repeat;
+  background: url(/images/temp.png);
 }
