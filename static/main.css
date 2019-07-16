@@ -40,3 +40,9 @@ header {
   display: flex;
   flex-flow: row nowrap;
 }
+
+#home-page-nav > button {
+  width: 20vw;
+  height: 30vh;
+  
+}
