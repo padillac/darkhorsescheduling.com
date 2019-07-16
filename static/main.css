@@ -49,7 +49,7 @@ header {
   border: none;
   font-size: 24pt;
   color: white;
-  text-align: justify;
+  text-align: right;
 }
 
 #home-page-nav > button:hover {
