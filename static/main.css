@@ -19,6 +19,11 @@ body {
 	   margin: 0;
 }
 
+a {
+  text-decoration: none;
+  color: rgb(0, 0, 238);
+}
+
 header {
 	  color: white;
 	  font-size: 60pt;
