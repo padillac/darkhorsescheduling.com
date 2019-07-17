@@ -20,7 +20,7 @@ body {
 }
 
 a {
-  text-decoration: none;
+  text-decoration: underline;
   color: rgb(0, 0, 238);
 }
 
