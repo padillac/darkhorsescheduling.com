@@ -9,7 +9,7 @@
 
 <body>
 
-	<header>Dark Horse Scheduling</header>
+	<header id="main-page-header">Dark Horse Scheduling</header>
 
   <div class="intro-paragraph">
     <p>Do you need a simpler and more effective way to manage daily classes, appointments, and volunteer shifts?</p>
