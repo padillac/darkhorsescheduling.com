@@ -18,7 +18,7 @@
       as well as a quick way to report their hours that they can access from anywhere.
       Staff need a place where they can plan sessions, keep progress notes and attendance records, and report hours.
       Coordinators need to be able to quickly view and change the entire season's schedule at a glance.
-      DHS keeps your entire schedule on one real-time database, so everyone's always up to date.</p>
+      DHS keeps your entire schedule on one real-time database, so everyone's always up to date. Curious? <a href="product-details/">Read more..</a></p>
   </div>
 
   <div id="home-page-nav">
