@@ -13,6 +13,7 @@
 
 <body>
   <?php include "/static/site-header.html"; ?>
+  <?php echo "THIS IS PHP"; ?>
 
   <div class="main-content">
     <h2>Personalized Daily Schedules</h2>
