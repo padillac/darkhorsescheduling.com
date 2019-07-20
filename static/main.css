@@ -59,6 +59,7 @@ header {
   transition: 0.3s;
   border: none;
   font-size: 24pt;
+  font-family: 'Rubik', sans-serif;
   color: white;
   text-align: right;
   background-size: cover;
