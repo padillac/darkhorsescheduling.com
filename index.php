@@ -15,7 +15,7 @@
     <p>Do you need a simpler and more effective way to manage daily classes, appointments, and volunteer shifts?</p>
     <p>Dark Horse Scheduling is a user-friendly web application that streamlines daily logistics for the whole organization.
       Volunteers need easy and clutter-free access to their shift information so they can prepare for their days,
-      as well as a quick way to report their hours that they can access from anywhere.
+      as well as a quick, accessible way to report their hours.
       Staff need a place where they can plan sessions, keep progress notes and attendance records, and report hours.
       Coordinators need to be able to quickly view and change the entire season's schedule at a glance.
       DHS keeps your entire schedule on one real-time database, so everyone's always up to date. Curious? <a href="product-details/">Read more..</a></p>
