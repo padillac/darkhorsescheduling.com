@@ -12,6 +12,7 @@
 </head>
 
 <body>
+  <?php include "/static/site-header.html"; ?>
 
   <div class="main-content">
     <h2>Personalized Daily Schedules</h2>

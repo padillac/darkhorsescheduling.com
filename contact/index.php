@@ -12,6 +12,8 @@
 
 <body>
 
+  <?php include "/static/site-header.html"; ?>
+
 </body>
 
 </html>
