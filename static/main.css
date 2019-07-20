@@ -1,6 +1,7 @@
 :root {
   	--background-dark-purple: #28004d;
   	--main-purple: #7300e6;
+    --off-white-purple: #eadfed;
 
   	scroll-behavior: smooth;
 
@@ -38,7 +39,7 @@ header {
 
 
 .intro-paragraph {
-    color: #fbedff;
+    color: var(--off-white-purple);
     font-size: 20;
     margin-left: 30vw;
     margin-right: 30vw;
