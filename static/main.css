@@ -24,6 +24,15 @@ h1, h2, h3, h4, h5, h6 {
   justify-content: center;
 }
 
+#site-header {
+  background-color: var(--main-purple);
+  margin: 0;
+  height: 15vh;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+}
+
 body {
   	background-color: var(--background-dark-purple);
 	  margin: 0;
