@@ -12,7 +12,7 @@
 
 <body>
 
-  <?php include "/static/site-header.html"; ?>
+  <?php include $_SERVER['DOCUMENT_ROOT'] . "/static/site-header.html"; ?>
 
 </body>
 
