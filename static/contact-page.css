@@ -1,0 +1,15 @@
+.main-content {
+  margin-left: 20vw;
+  margin-right: 20vw;
+
+
+  color: var(--off-white-purple);
+}
+
+.main-content > * {
+  margin-bottom: 5vh;
+}
+
+.main-content > h2 {
+  font-size: 30pt;
+}

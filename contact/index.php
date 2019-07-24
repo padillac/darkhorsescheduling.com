@@ -15,9 +15,17 @@
   <?php include $_SERVER['DOCUMENT_ROOT'] . "/static/site-header.html"; ?>
 
 
+  <div class="main-content">
 
-  <a href="mailto: chris.e.padilla@gmail.com">chris.e.padilla@gmail.com</a>
-  <a href="tel:16123562341">(612)356-2341</a>
+    <h2>About:</h3>
+    <p>blablablabla</p>
+
+    <h2>Contact Me:</h2>
+    <a href="mailto: chris.e.padilla@gmail.com">chris.e.padilla@gmail.com</a>
+    <a href="tel:16123562341">(612)356-2341</a>
+
+  </div>
+
 
 </body>
 
