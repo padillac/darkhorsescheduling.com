@@ -7,3 +7,7 @@
 
   color: var(--off-white-purple);
 }
+
+.main-content > * {
+  margin-bottom: 20px;
+}
