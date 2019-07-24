@@ -22,8 +22,8 @@
     <p>blablablabla</p>
 
     <h2>Contact Me:</h2>
-    <a href="mailto: chris.e.padilla@gmail.com">chris.e.padilla@gmail.com</a>
-    <a href="tel:16123562341">(612)356-2341</a>
+    <p>Email: <a href="mailto: chris.e.padilla@gmail.com">chris.e.padilla@gmail.com</a></p>
+    <p>Phone: <a href="tel:16123562341">(612)356-2341</a></p>
 
   </div>
 
