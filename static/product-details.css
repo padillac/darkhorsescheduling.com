@@ -19,3 +19,7 @@
 .main-content > h3 {
   font-size: 24pt;
 }
+
+.main-content > p {
+  max-width: 40%;
+}
