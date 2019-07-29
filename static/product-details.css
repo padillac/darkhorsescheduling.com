@@ -28,5 +28,5 @@
   max-height: 350px;
   float: left;
   margin-right: 4vw;
-  box-shadow: 0 0 8px 8px var(--background-dark-purple) inset;
+  box-shadow: 0 0 5% 5% var(--background-dark-purple) inset;
 }
