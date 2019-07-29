@@ -20,7 +20,7 @@
     <h2 style="text-align: right;">Personalized Daily Schedules</h2>
     <p style="text-align: right; margin-left: 40%;">Staff, volunteers, and clients can simply type in their name to view their daily, personalized schedules. DHS helps avoid confusion and an excess of information, to make sure that everyone knows where they need to be.</p>
 
-    <br><br>
+    <br><br><br>
     <h2>Hour Tracking</h2>
     <p style="margin-right: 60%;">DHS gives staff and volunteers an easy way to record their work hours, anytime, from anywhere. </p>
 
