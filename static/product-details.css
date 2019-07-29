@@ -23,3 +23,7 @@
 .main-content > p {
 
 }
+
+.screenshot {
+  max-width: 200px;
+}
