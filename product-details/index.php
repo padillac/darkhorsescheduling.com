@@ -30,7 +30,7 @@
     <h2>Hour Tracking</h2>
     <p style="margin-right: 60%;">DHS gives staff and volunteers an easy way to record their work hours, anytime, from anywhere. </p>
     <div class="screenshot screenshot-right">
-      <img src="/images/product-details/volunteer-daily-schedule-select-name.png" alt="Page where volunteers select their name and the date to view their dialy schedule.">
+      <img src="/images/product-details/volunteer-record-hours.png" alt="Form for volunteers to record their hours">
     </div>
 
     <h2 style="text-align: right;">Smart Scheduling with Conflict Detection</h2>
