@@ -24,7 +24,7 @@
 
 }
 
-.screenshot {
+.screenshot::after {
   max-height: 350px;
   float: left;
   margin-right: 4vw;
