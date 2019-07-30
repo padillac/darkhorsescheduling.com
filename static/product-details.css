@@ -13,6 +13,10 @@
   margin-bottom: 5vh;
 }
 
+.main-content > h1 {
+  font-size: 36pt;
+}
+
 .main-content > h2 {
   font-size: 30pt;
 }
