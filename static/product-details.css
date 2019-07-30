@@ -27,16 +27,17 @@
 .screenshot {
   max-height: 350px;
   float: left;
-  margin-right: 4vw;
   box-shadow: 0px 0px 30px 10px white;
 }
 
 .screenshot-left {
   float: left;
+  margin-right: 4vw;
 }
 
 .screenshot-right {
   float: right;
+  margin-left: 4vw;
 }
 
 .screenshot > * {
