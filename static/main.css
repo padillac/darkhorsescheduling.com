@@ -18,6 +18,7 @@ h1, h2, h3, h4, h5, h6 {
 #main-page-header {
   text-shadow: 0px 0px 10px #571c7a;
   color: white;
+  font-family: 'Rubik', sans-serif;
   font-size: 60pt;
   background-color: var(--main-purple);
   display: flex;
