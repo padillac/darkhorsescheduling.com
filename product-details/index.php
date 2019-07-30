@@ -20,6 +20,7 @@
     <p style="margin-right: 10%; font-size: 18pt;">Dark Horse Scheduling is a centralized schedule management application that keeps the entire organization on the same page.
       DHS provides access to up-to-date information anytime, on any device, from any location. You'll also enjoy a simple, effective, user-friendly design.
       Read on to learn about DHS' unique features that make everyday tasks faster and easier for employees and volunteers at all levels of your organization.</p>
+    <br><br>
 
 
     <div class="screenshot screenshot-left">
