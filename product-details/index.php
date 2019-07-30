@@ -49,11 +49,12 @@
     </div>
 
     <br><br><br><br><br><br>
-    <h3 style="text-align: right;">Horse Use Limits</h3>
-    <p style="text-align: right; margin-left: 60%;">Set daily and weekly work limits for each horse, DHS will help ensure that no horse is overworked.</p>
     <div class="screenshot screenshot-left">
       <img src="/images/product-details/edit-horse-page.png" alt="View of edit horse page, showing ability to set daily and weekly use limits">
     </div>
+    <h3 style="text-align: right;">Horse Use Limits</h3>
+    <p style="text-align: right; margin-left: 60%;">Set daily and weekly work limits for each horse, DHS will help ensure that no horse is overworked.</p>
+
 
 
     <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
