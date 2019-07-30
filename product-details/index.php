@@ -48,7 +48,7 @@
       <img src="/images/product-details/conflict-sample.png" alt="Example of a scheduling conflict being detected and reported.">
     </div>
 
-    <br><br><br><br><br><br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
     <div class="screenshot screenshot-left">
       <img src="/images/product-details/edit-horse-page.png" alt="View of edit horse page, showing ability to set daily and weekly use limits">
     </div>
