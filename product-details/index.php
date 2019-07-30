@@ -48,6 +48,7 @@
       <img src="/images/product-details/conflict-sample.png" alt="Example of a scheduling conflict being detected and reported.">
     </div>
 
+    <br>
     <h3 style="text-align: right;">Horse Use Limits</h3>
     <p style="text-align: right; margin-left: 40%;">Set daily and weekly work limits for each horse, DHS will help ensure that no horse is overworked.</p>
     <div class="screenshot screenshot-left">
