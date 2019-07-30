@@ -32,7 +32,7 @@
     <h2 style="text-align: right;">Personalized Daily Schedules</h2>
     <p style="text-align: right; margin-left: 40%;">Staff, volunteers, and clients can simply type in their name to view their daily, personalized schedules. DHS helps avoid confusion and an excess of information, to make sure that everyone knows where they need to be.</p>
 
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
     <div class="screenshot screenshot-right">
       <img src="/images/product-details/volunteer-record-hours.png" alt="Form for volunteers to record their hours">
     </div>
