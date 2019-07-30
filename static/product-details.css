@@ -28,4 +28,5 @@
   max-height: 350px;
   float: left;
   margin-right: 4vw;
+  box-shadow: 0px 0px 30px white inset;
 }
