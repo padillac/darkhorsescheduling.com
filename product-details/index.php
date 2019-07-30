@@ -20,7 +20,7 @@
     <div class="screenshot screenshot-left">
       <img src="/images/product-details/volunteer-daily-schedule-select-name.png" alt="Page where volunteers select their name and the date to view their dialy schedule.">
     </div>
-    <div class="screenshot">
+    <div class="screenshot screenshot-left">
       <img src="/images/product-details/volunteer-daily-schedule-sample.png" alt="Sample view of volunteer daily schedule">
     </div>
     <h2 style="text-align: right;">Personalized Daily Schedules</h2>
