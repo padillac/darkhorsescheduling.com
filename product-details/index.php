@@ -56,7 +56,7 @@
       <img src="/images/product-details/directories.png" alt="Directories page">
     </div>
 
-    <br><br><br><br><br><br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
     <div class="screenshot screenshot-left">
       <img src="/images/product-details/generate-report-page.png" alt="Page where administrators can download all schedule and timesheet data">
     </div>
