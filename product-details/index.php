@@ -41,7 +41,7 @@
 
 
 
-    <br><br><br><br>
+    <br><br><br><br><br>
     <h2 style="text-align: right;">Smart Scheduling with Conflict Detection</h2>
     <p style="text-align: right; margin-left: 40%;">Whenever a change to the schedule is made, DHS automatically checks every person, horse, and resource against the database to ensure that nothing is double-booked.</p>
     <div class="screenshot screenshot-right">
