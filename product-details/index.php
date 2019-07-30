@@ -50,6 +50,9 @@
 
 
     <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <div class="screenshot screenshot-right">
+      <img src="/images/product-details/directories.png" alt="Directories page">
+    </div>
     <h2>Organization Directories</h2>
     <p style="margin-right: 60%;">Keep all organization contacts together, and easily accessible.</p>
 
