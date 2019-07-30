@@ -71,8 +71,10 @@
     <h2 style="text-align: right;">All your data, in one place</h2>
     <p style="text-align: right; margin-left: 40%;">Administrators have easy access to all organization information. Download CSV reports of volunteer and staff hours, class information, and volunteer shifts.</p>
 
-    <button id="demo-button" type="button" onclick="window.location.href = 'https://demo.darkhorsescheduling.com/';">Try a Demo</button>
-
+    <div id="home-page-nav">
+      <button id="demo-button" type="button" onclick="window.location.href = 'https://demo.darkhorsescheduling.com/';">Try a Demo</button>
+    </div>
+    
   </div>
 
 </body>
