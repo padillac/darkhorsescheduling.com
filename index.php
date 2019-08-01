@@ -12,7 +12,7 @@
 	<header id="main-page-header">Dark Horse Scheduling</header>
 
   <div class="intro-paragraph">
-    <!-- <p>Do you need a simpler and more effective way to manage daily classes, appointments, and volunteer shifts?</p> -->
+    <p>Do you need a simpler and more effective way to manage daily classes, appointments, and volunteer shifts?</p> -->
     <p>Volunteers need easy and clutter-free access to their shift information so they can prepare for their days,
       as well as a quick, accessible way to report their hours.
       Staff need a place where they can plan sessions, keep progress notes and attendance records, and report hours.
