@@ -69,7 +69,7 @@
       <img src="/images/product-details/generate-report-page.png" alt="Page where administrators can download all schedule and timesheet data">
     </div>
     <h2 style="text-align: right;">All your data, in one place</h2>
-    <p style="text-align: right; margin-left: 40%;">Administrators have easy access to all organization information. Download CSV reports of volunteer and staff hours, class information, and volunteer shifts.</p>
+    <p style="text-align: right; margin-left: 40%;">Administrators have easy access to all organization information. Download excel-ready reports of volunteer and staff hours, class information, and volunteer shifts.</p>
 
     <br><br>
     <div id="home-page-nav">
