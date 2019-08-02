@@ -25,7 +25,6 @@
   </div>
 
   <div id="home-page-nav">
-    <button id="-button" type="button" onclick="window.location.href = 'contact/';">????</button>
     <button id="demo-button" type="button" onclick="window.location.href = 'https://demo.darkhorsescheduling.com/';">Try a Demo</button>
     <button id="contact-button" type="button" onclick="window.location.href = 'contact/';">Contact</button>
   </div>
