@@ -33,7 +33,6 @@
 .screenshot {
   max-height: 350px;
   float: left;
-  max-width: 60vw;
 }
 
 .screenshot-left {
@@ -50,4 +49,5 @@
   max-height: inherit;
   border-radius: 2%;
   box-shadow: 0px 0px 30px 11px white;
+  max-width: 60vw;
 }
