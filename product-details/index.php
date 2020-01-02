@@ -37,12 +37,12 @@
 
 
     <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <h2>Hour Tracking</h2>
+    <p style="margin-right: 60%;">DHS gives staff and volunteers an easy way to record their work hours, anytime, from anywhere. </p>
     <div class="screenshot screenshot-right">
       <img src="/images/product-details/volunteer-record-hours.png" alt="Form for volunteers to record their hours">
     </div>
-    <h2>Hour Tracking</h2>
-    <p style="margin-right: 60%;">DHS gives staff and volunteers an easy way to record their work hours, anytime, from anywhere. </p>
-
+    
 
 
     <br><br><br><br><br>
