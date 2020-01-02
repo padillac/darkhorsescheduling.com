@@ -38,7 +38,7 @@
 
     <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
     <h2>Hour Tracking</h2>
-    <p style="margin-right: 60%;">DHS gives staff and volunteers an easy way to record their work hours, anytime, from anywhere. </p>
+    <p style="margin-right: 60%;">DHS gives staff and volunteers an easy way to record their work hours, anytime, from anywhere. Supervisors get email notifications when staff complete a pay period.</p>
     <div class="screenshot screenshot-right">
       <img src="/images/product-details/volunteer-record-hours.png" alt="Form for volunteers to record their hours">
     </div>
@@ -74,6 +74,12 @@
     </div>
     <h2 style="text-align: right;">All your data, in one place</h2>
     <p style="text-align: right; margin-left: 40%;">Administrators have easy access to all organization information. Download excel-ready reports of volunteer and staff hours, class information, and volunteer shifts.</p>
+
+    <br><br><br><br>
+    <h2>And much more...</h2>
+    <p style="margin-right: 60%;">Send email updates to staff, volunteers, and clients. Customize your own color coding of classes by type. Administrators take complete control and can edit classes at a glance with the editable daily schedule.</p>
+    <p style="margin-right: 60%;">Intrigued? Give DHS a try right now by visiting the demo below. <a href="../contact/">Contact</a> me with any questions.</p>
+
 
     <br><br><br><br>
     <div id="home-page-nav">
