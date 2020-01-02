@@ -33,6 +33,7 @@
 .screenshot {
   max-height: 350px;
   float: left;
+  max-width: 60vw;
 }
 
 .screenshot-left {
